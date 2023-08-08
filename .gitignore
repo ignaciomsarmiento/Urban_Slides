@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=r,latex,microsoftoffice
 
 
-figres/* 
+*/figures/* 
 
 
 
@@ -392,7 +392,7 @@ rsconnect/
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
-
+ 
 
 ### macOS ###
 # General
