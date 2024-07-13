@@ -11,4 +11,4 @@ Este curso busca exponer a los estudiantes a la economía urbana. A diferencia d
 
 ## Enlace de Contacto
 
-Para más información sobre el curso y otros recursos, visita la [página web del profesor Ignacio Sarmiento](https://ignaciomsarmiento.github.io/).
+Para más información sobre el curso y otros recursos, visita la [página web del profesor Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/).
